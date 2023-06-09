@@ -1,6 +1,6 @@
 # Telegram_Bot
 
-My first telegram bot.
+My first telegram-bot.
 
 This telegram bot represents the simplest functionality that bots can have.
 
