@@ -1,3 +1,5 @@
+RU:
+
 Немного о написанном в этом проекте.
 
 Это программу можно запускать в самой IDE, но, чтобы бот был постоянно активным, если следует закинуть на сервер.
@@ -21,3 +23,31 @@ https://replit.com/
 Для того, чтобы получить токен, нужно зайти в Телеграмм и вбить там BotFather. В нем создать нашу оболочку и затем, следуя инстрикции, достать токен нашего бота и вставить в соответствующую позицию в коде.
 
 Все эти файлы нужно поместить на сайт, который представлен выше для корректной работы задумки автора.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EN:
+
+A little about what was written in this project.
+
+This program can be run in the IDE itself, but the bot should be permanent if it should be activated on the server.
+
+You can write your own server, however, after turning off your PC, the server will also be disconnected.
+
+There is an exit!
+
+https://replit.com/
+
+This site provides you with the opportunity to keep your bot active for FREE!
+
+BUT,
+
+RAM of 512 MB and Memory of 1024 MB are available for free here, as well as an available CPU of only 0.5 V. However, this is more than enough to run our primitive bot.
+
+For a bot to be constantly active, it needs to be constantly interacted with. There is a file 'background.py' for this.
+
+In this file, a request is sent to our server after a certain time has elapsed, thereby restarting it and forcing it to continue to live.
+
+In order to receive a token, you need to go to Telegram and type in BotFather there. Create our shell in it and then, following the instructions, get the token of our bot and paste it into the appropriate position in the code.
+
+All these files must be placed on the site presented above for the author’s idea to work correctly.
